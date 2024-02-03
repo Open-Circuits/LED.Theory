@@ -1,0 +1,1 @@
+- [Why 3 blue LEDs will handle 12V to 20V nicely with 1k current setting resistor](https://youtu.be/Z_Uok9owWYw)
